@@ -10,7 +10,9 @@ Each of the four rows of keys in a telephone is assigned a low frequency tone an
    There are sixteen DTMF signals, each of which is made up of two tones from eight different frequency signals. Twelve of these are commonly used by consumers with four being reserved for military use or use by exchanges. The keys A, B, C, D are usually absent from telephone sets used in homes and offices. These keys are system tones used for configuring telephone exchanges and to carry out special functions. The DTMF keypad for consumer use is designed in a four‐row by three‐ column matrix. Each dial row is represented by a low tone frequency and each column by a high tone frequency.
    
    The frequencies used are 697 Hz, 770 Hz, 852 Hz, 941 Hz, 1209 Hz, 1336 Hz, 1477Hz, and 1633 Hz. The frequencies were carefully chosen in such a way as to prevent harmonics. Thus, one can notice that no frequency is a multiple of another and the difference or sum between any two frequencies is not equal to any other frequency. The pair of tones represents the digit or symbol at the intersection of the row and column. For example, if the digit 5 has to be sent, the frequencies transmitted are 1336 Hz and 770 Hz in a sinusoidal combination.
-    
+ 
+
+
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/40741680/125466009-0627ea1d-1066-46e2-b60a-32e8443a95d2.png" width="600" height="461">
