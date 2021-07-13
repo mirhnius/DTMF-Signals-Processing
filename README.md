@@ -15,5 +15,5 @@ Each of the four rows of keys in a telephone is assigned a low frequency tone an
   
 <img src="https://user-images.githubusercontent.com/40741680/125466009-0627ea1d-1066-46e2-b60a-32e8443a95d2.png" width="600" height="461">
 
-   <img src="https://user-images.githubusercontent.com/40741680/125467252-d048eb19-2559-4c7d-84cf-1055f1d358e1.jpg" width="900" height="400">
+   <img src="https://github.com/niushamir/DTMF-Signals-Processing/blob/main/Images/Spectrum.jpg" width="950" height="450">
  </p>
